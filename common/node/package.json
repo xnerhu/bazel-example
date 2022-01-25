@@ -1,0 +1,7 @@
+{
+  "name": "@common/node",
+  "version": "0.0.0-PLACEHOLDER",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
